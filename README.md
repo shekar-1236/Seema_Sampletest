@@ -1,1 +1,1 @@
-# Seema_Sampletest repo demonstration second time edit
+# Seema_Sampletest repo demonstration
